@@ -14,7 +14,7 @@
  
 <br>
  
-### Para conteúdo sobre programação me segue na rede!
+
  
 <div> 
   <a href = "mailto:guildbarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
